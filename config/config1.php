@@ -5,7 +5,7 @@ const BD_PASSWORD = "";
 const BD_NAME   = "";
 const BD_CHARSET ="utf8";
 
-const BASE_URL = "http://localhost/sis_notas_mercedes/";
+const BASE_URL = "http://localhost/sis_libretas/";
 
 
 $conexion = new mysqli(BD_HOST, BD_USER, BD_PASSWORD, BD_NAME);

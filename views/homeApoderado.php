@@ -20,7 +20,9 @@ $usua_id = $_SESSION['secion_ventas_id'];
 
 $result = $conexion->query($sql);
 ?>
+<h1 style="background:#96ff95; color:#f0274e;text-align:center;">HOME APODERADO</h1>
 <h6>Bienvenido al sistema de Academico, Apoderado.. <span style="color:red"> <?php echo $_SESSION['sesion_venta_nombres'];?></span><a  href="">  Visite nuestra pagina</a>.</h6>
+
 <div class="col-12">
         <div class="card my-4">
             <div class="card-header p-0 position-relative mt-n4 mx-3 z-index-2">
