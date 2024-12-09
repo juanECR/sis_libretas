@@ -125,7 +125,7 @@
   
   <div class="sidenav-footer position-absolute w-100 bottom-0 ">
     <div class="mx-3">
-      <a class="btn bg-gradient-primary w-100" src="ielasmercedeshuanta.limon-cito.com" type="button">Pagina web</a>
+      <a class="btn bg-gradient-primary w-100" href="https://ielasmercedeshuanta.limon-cito.com" type="button">Pagina web</a>
     </div>
     
   </div>
@@ -157,7 +157,7 @@
       </div>
       <ul class="navbar-nav  justify-content-end">
         <li class="nav-item d-flex align-items-center">
-          <a class="btn btn-outline-primary btn-sm mb-0 me-3" target="_blank" src="ielasmercedeshuanta.limon-cito.com">Pagina web</a>
+          <a class="btn btn-outline-primary btn-sm mb-0 me-3" target="_blank" href="https://ielasmercedeshuanta.limon-cito.com">Pagina web</a>
         </li>
         <li class="nav-item d-xl-none ps-3 d-flex align-items-center">
           <a href="javascript:;" class="nav-link text-body p-0" id="iconNavbarSidenav">
